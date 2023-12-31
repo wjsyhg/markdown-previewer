@@ -1,0 +1,2 @@
+.header{text-align:center}.container{display:flex;justify-content:space-between}.editor{color:red}.editor,.preview{flex:1 1;margin:5px;text-align:center}.preview{color:green}.input{border:solid;margin-right:5px;min-height:400px;width:45vw}.output{border:2px solid #000;height:400px;overflow-x:hidden;overflow-y:scroll;text-align:left;width:47vw}.output img{max-width:100%}
+/*# sourceMappingURL=main.cde769fe.css.map*/
